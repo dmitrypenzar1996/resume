@@ -130,7 +130,7 @@ I've attend a huge variety of additional courses, including:
 		contents: `
 		`},
 		{
-			header: "Retroelement—Linked Transcription Factor Binding Patterns Point to Quickly Developing Molecular Pathways in Human Evolution<Paste>",
+			header: "Retroelement—Linked Transcription Factor Binding Patterns Point to Quickly Developing Molecular Pathways in Human Evolution",
 		theme: ["epigenomics", "visualization", "regulatory regions"],
 		contents: `
 		`},
