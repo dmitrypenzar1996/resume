@@ -85,13 +85,13 @@ module.exports = {
       header: 'Additional courses',
       skills: ['ecomomics', 'linguistics', 'mathematics'],
       contents: `
-I've attend a huge variety of additional courses, including:
-1. Categorial grammar
-2. Neuroscience and neuromarketing
-3. Macromolecular modeling
-4. Pattern recognition
-5. Mathematical models in biology
-6. Mathematical linguistics
+      I've attend a huge variety of additional courses, including:
+      1. Categorial grammar
+      2. Neuroscience and neuromarketing
+      3. Macromolecular modeling
+      4. Pattern recognition
+      5. Mathematical models in biology
+      6. Mathematical linguistics
 `
     },
     {
