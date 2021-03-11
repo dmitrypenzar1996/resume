@@ -1,68 +1,149 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Dmitry Penzar',
+  title: 'Bioinformatician, ML enthusiast, teacher',
   facts: {
-    'Residence': 'London',
-    'Homepage': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <span class="print">https://en.wikipedia.org/wiki/William_Shakespeare</span>
-                  <span class="screen">wiki</span>
+    'Residence': 'Moscow',
+    'Github': `<a href="https://github.com/dmitrypenzar1996/">
+                  <span class="print">github</span>
+                  <span class="screen">dmitrypenzar1996</span>
                 </a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com">wil64@yahoo.com</a>'
+    'Email': '<a href="mailto:dmitrypenzar1996@gmail.com">dmitrypenzar1996@gmail.com</a>'
   },
   skills: [
-    ['Comedy', '++++'],
-    ['Love', '++++'],
-    ['Theater', '++++'],
-    ['Tragedy', '++++'],
-    ['Poetry', '++++'],
-    ['Erotic', '+++'],
-    ['Sonnets', '++++'],
-    ['Plays', '++++'],
-    ['Writing', '++++'],
-    ['Directing', '+++'],
-    ['Literature', '++++'],
-    ['Influence', '++++'],
+    ['Python', '+++++'],
+    ['R', '+++++'],
+    ['C/C++', '+++'],
+    ['Golang', '++' ],
+    ['Statistics', '+++++'],
+    ['Classical ML', '+++++'],
+    ['Deep learning', '++++'],
+    ['Algorithms', '+++++'],
+    ['Molecular biology', '+++'],
+    ['Bioinformatics', '+++++'],
+    ['English\n(speaking)', '+++'],
+    ['English\n(technical literature)', '+++++'],
   ],
   plays: [
     {
-      title: 'Hamlet',
-      written: 'Likely early 17th century',
-      badges: ['tragedy', 'philosophy', 'death'],
+      title: 'Department of Computational Systems Biology, VIGG RAN',
+      written: 'June 2017 - Current',
+      badges: ['ML', 'biology', 'healthcare'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+      Advisor: Dr. Ivan Kulakovskiy. 
+      Classical ML and Deep Neural Networks application for the regulatory mutations effect  
 `
     },
     {
-      title: 'Twelfth Night',
-      written: '1600 – 1601',
-      badges: ['comedy', 'love'],
-      contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+      title: 'Belozersky Institute of Physico-Chemical Biology, Department of Mathematical Methods in Biology',
+      written: 'September 2016 - June 2017',
+      badges: ['C/C++', 'phylogeny', 'software development'],
+      contents: ` 
+      Advisor: S.A. Spirin
+      We developed a novel program, named PQ, for reconstructing protein and nucleic acid phylogenies following a new character-based principle. 
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      written: '1595–1596, with a possible early draft written in 1591',
-      badges: ['tragedy', 'death', 'love'],
+      title: 'Internship in Netherlands, LUMC, Molecular Epidemiology, Department of Medical Statistics and Bioinformatics',
+      written: 'July 2016',
+      badges: ['R', 'NGS', 'software development'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
-`
-    }
+      Advisor: Dr. Szymon Kielbasa
+      R-Shiny based NGS data quality control and outliers detection toolkit Zeeuw
+	    `
+    },
+    {
+      title: 'Technosphere, Mail.Ru Group',
+      written: 'October 2016 - December 2017',
+      badges: ['R', 'NGS', 'software development'],
+      contents: `
+      Intense two-year program by a leading Russian IT company. Within the program, I participated in differeent ML Kaggle compeetitions, aquired a huge experience in ML and software development, deepened knowledge of C/C++. I quited from the third semester of the program due to job offer from Insilico Medicine company 
+   ` 
+    },
+    {
+      title: 'Developer in startup curated by AIAR Labs Inc, department of machine learning',
+      written: 'August 2017 - October 2017',
+      badges: ['ML', 'DNN', 'software development'],
+      contents: `
+      NDA(:( )
+   ` 
+    },
+    {
+      title: 'Developer in InSilico Medicine, department of machine learning',
+      written: 'November 2017 - August 2018',
+      badges: ['ML', 'DNN', 'drug design', 'software development'],
+      contents: `
+      I've been working on generating new drugs using deep neural networks
+   `} 
   ],
   experience: [
     {
-      header: 'Performance',
-      skills: ['theater', 'play'],
+      header: 'Additional courses',
+      skills: ['ecomomics', 'linguistics', 'mathematics'],
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
+I've attend a huge variety of additional courses, including:
+1. Categorial grammar
+2. Neuroscience and neuromarketing
+3. Macromolecular modeling
+4. Pattern recognition
+5. Mathematical models in biology
+6. Mathematical linguistics
 `
     },
     {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
+      header: 'Teacher',
+      skills: ['teaching', 'communication', 'team leader'],
       contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. He dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+      I've been trying to take part in teaching since I was a third-year student. Firstly, I've started as teacher assistant,
+      then - one the course authors, now I'm continue to teach different courses, including those led by me.
+      Short list of courses I'm taking part in:
+      1. Algorithms 
+      2. Machine learning in biology (the course led by me)
+      3. Introduction to Python
+      4. Advanced Python
+      5. Deep learning in science
+      `
     }
-  ]
+  ],
+	publication:[
+		{
+			header: "Insights gained from a comprehensive all-against-all transcription factor binding motif benchmarking study",
+		theme: ["epigenomics", "visualization", "regulatory regions"],
+		contents: `
+		`},
+		{
+		header: "The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2",
+		theme: ["virology", "R", "software development"],
+		contents: `
+		`},
+		{
+		header: "H3K4me3, H3K9ac, H3K27ac, H3K27me3 and H3K9me3 Histone Tags Suggest Distinct Regulatory Evolution of Open and Condensed Chromatin Landmarks",
+		theme: ["epigenomics"],
+		contents: `
+		`},
+		{
+			header: "Integration of Multiple Epigenomic Marks Improves Prediction of Variant Impact in Saturation Mutagenesis Reporter Assayheader: ",
+		theme: ["epigenomics", "machine learning", "regulatory regions"],
+		contents: `
+		`},
+		{
+			header: "Retroelement—Linked Transcription Factor Binding Patterns Point to Quickly Developing Molecular Pathways in Human Evolution<Paste>",
+		theme: ["epigenomics", "visualization", "regulatory regions"],
+		contents: `
+		`},
+		{
+			header: "What Do Neighbors Tell About You: The Local Context of Cis-Regulatory Modules Complicates Prediction of Regulatory Variants",
+		theme: ["machine learning", "data leakage", "regulatory regions"],
+		contents: `
+		`},
+		{
+			header: "PQ, a new program for phylogeny reconstruction",
+		theme: ["phylogeny"],
+		contents: `
+		`},
+		{
+			header: "Profiling of Human Molecular Pathways Affected by Retrotransposons at the Level of Regulation by Transcription Factor Proteins",
+		theme: ["epigenomics", "visualization", "regulatory regions"],
+		contents: `
+		`},
+ ]
 };
