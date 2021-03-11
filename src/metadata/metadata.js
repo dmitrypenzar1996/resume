@@ -93,8 +93,8 @@ I've attend a huge variety of additional courses, including:
       header: 'Teacher',
       skills: ['teaching', 'communication', 'team leader'],
       contents: `
-      I've been trying to take part in teaching since I was a third-year student. Firstly, I've started as teacher assistant,
-      then - one the course authors, now I'm continue to teach different courses, including those led by me.
+      I've been trying to take part in teaching since I was a third-year student. Firstly, I've started as an teacher assistant,
+      then - as one of the course authors, now I'm continue to teach different courses, including those led by me.
       Short list of courses I'm taking part in:
       1. Algorithms 
       2. Machine learning in biology (the course led by me)
