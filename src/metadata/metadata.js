@@ -126,7 +126,7 @@ I've attend a huge variety of additional courses, including:
 		contents: `
 		`},
 		{
-			header: "Integration of Multiple Epigenomic Marks Improves Prediction of Variant Impact in Saturation Mutagenesis Reporter Assayheader: ",
+			header: "Integration of Multiple Epigenomic Marks Improves Prediction of Variant Impact in Saturation Mutagenesis Reporter Assayheader",
 		theme: ["epigenomics", "machine learning", "regulatory regions"],
 		contents: `
 		`},
