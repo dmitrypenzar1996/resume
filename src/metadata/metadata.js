@@ -39,7 +39,8 @@ module.exports = {
       badges: ['C/C++', 'phylogeny', 'software development'],
       contents: ` 
       Advisor: S.A. Spirin
-      We developed a novel program, named PQ, for reconstructing protein and nucleic acid phylogenies following a new character-based principle. 
+      We developed a novel program, named PQ, for reconstructing protein
+      and nucleic acid phylogenies following a new character-based principle. 
 `
     },
     {
@@ -56,7 +57,10 @@ module.exports = {
       written: 'October 2016 - December 2017',
       badges: ['R', 'NGS', 'software development'],
       contents: `
-      Intense two-year program by a leading Russian IT company. Within the program, I participated in differeent ML Kaggle compeetitions, aquired a huge experience in ML and software development, deepened knowledge of C/C++. I quited from the third semester of the program due to job offer from Insilico Medicine company 
+      Intense two-year program by a leading Russian IT company.
+      Within the program, I participated in different ML Kaggle competitions,
+      aquired a huge experience in ML and software development, deepened knowledge of C/C++. 
+      I quited from the third semester of the program due to job offer from Insilico Medicine company 
    ` 
     },
     {
@@ -64,7 +68,7 @@ module.exports = {
       written: 'August 2017 - October 2017',
       badges: ['ML', 'DNN', 'software development'],
       contents: `
-      NDA(:( )
+      NDA
    ` 
     },
     {
