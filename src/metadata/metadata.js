@@ -85,7 +85,7 @@ module.exports = {
       header: 'Additional courses',
       skills: ['ecomomics', 'linguistics', 'mathematics'],
       contents: `
-      I've attend a huge variety of additional courses, including:
+      I've attended a huge variety of additional courses, including:
       1. Categorial grammar
       2. Neuroscience and neuromarketing
       3. Macromolecular modeling
@@ -98,7 +98,7 @@ module.exports = {
       header: 'Teacher',
       skills: ['teaching', 'communication', 'team leader'],
       contents: `
-      I've been trying to take part in teaching since I was a third-year student. Firstly, I've started as an teacher assistant,
+      I've been taking part in teaching since I was a third-year student. Firstly, I've started as an teacher assistant,
       then - as one of the course authors, now I'm continue to teach different courses, including those led by me.
       Short list of courses I'm taking part in:
       1. Algorithms 
